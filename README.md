@@ -10,6 +10,9 @@ The Goal is to provide
 
 
 *  [LINK TO LIVE WEB APPLICATION](https://share.streamlit.io/gift-ojeabulu/hepatitis-fatality-predictor/main/app.py)
+*  [LINK TO APP ON YOUTUBE](https://youtu.be/5xKfywSOZFc)
+
+
 
 
 ## ✅ Tech stack!
