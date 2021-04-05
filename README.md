@@ -2,7 +2,7 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/gift-ojeabulu/aviation-tweets-sentiment-analysis/main/app.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/gift-ojeabulu/hepatitis-fatality-predictor/main/app.py)
 
 
 
@@ -12,7 +12,7 @@ The Goal is to provide analysis and Insights that make Mr Chukwudi understand wh
 
 ![]()
 
-*  [LINK TO LIVE WEB APPLICATION](https://docs.google.com/presentation/d/17dqXXJa0k7jSPV0vNnqGsjjNfzMHg9C_n9ZQvgsdWr8/edit#slide=id.gc913e74879_0_1310)
+*  [LINK TO LIVE WEB APPLICATION](https://share.streamlit.io/gift-ojeabulu/hepatitis-fatality-predictor/main/app.py)
 
 
 
