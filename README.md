@@ -1,1 +1,1 @@
-# Hepatitis-fatality-predictor
+# HEPATITIS-B-FATALITY-PREDICTOR
