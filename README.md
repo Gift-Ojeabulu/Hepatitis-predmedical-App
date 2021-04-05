@@ -5,15 +5,11 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/gift-ojeabulu/hepatitis-fatality-predictor/main/app.py)
 
 
-
-
 ## ✅ Goal
-The Goal is to provide analysis and Insights that make Mr Chukwudi understand what type of product, market clusters and supermarket type (location, age, size) which will give more margin as he plans to expand to more cities in Nigeria
+The Goal is to provide 
 
-![]()
 
 *  [LINK TO LIVE WEB APPLICATION](https://share.streamlit.io/gift-ojeabulu/hepatitis-fatality-predictor/main/app.py)
-
 
 
 ## ✅ Tech stack!
