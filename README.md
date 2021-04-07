@@ -31,7 +31,7 @@ The Goal is to help health practitioners with the prediction of a patient having
 
 * Data viz and predictive analytics(Main section) - This part predicts the chances of survival of a patient having Hepatitis B using 3 Machine learning model KNN,   Logistic Regression and Random Forest and give a prescription(Prescriptive Analytics).
 
-This is a typical ML project that uses the CRISP-DM methodology from Data understanding to Model Deployment.
+* This is a typical ML project that uses the CRISP-DM methodology from Data understanding to Model Deployment.
 
 
 
