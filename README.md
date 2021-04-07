@@ -9,6 +9,8 @@
 The Goal is to help health practitioners with the prediction of a patient having Hepatitis B,this can be infused into any hospital’s existing system and can be useful in areas with scarce health personnel and limited resources. 
 
 
+## ✅ Links
+
 *  [LINK TO LIVE WEB APPLICATION](https://share.streamlit.io/gift-ojeabulu/hepatitis-fatality-predictor/main/app.py)
 *  [LINK TO APP ON LINKEDIN](https://www.linkedin.com/posts/gift-ojabu_i-worked-on-a-predictive-analytics-project-activity-6785127012211163136-Hb2s)
 
