@@ -24,6 +24,15 @@ The Goal is to help health practitioners with the prediction of a patient having
 	* SQLITE
 	* JOBLIB
 
+## ✅ Features
+* Signup & Login section - since the app is for healthcare decided to put some form of security.
+
+* About Hepatitis B(Home section) - This part gives you detail about Hepatitis B, causes and risk, symptoms and link to learn more about Hepatitis B.
+
+* Data viz and predictive analytics(Main section) - This part predicts the chances of survival of a patient having Hepatitis B using 3 Machine learning model KNN,   Logistic Regression and Random Forest and give a prescription(Prescriptive Analytics).
+
+This is a typical ML project that uses the CRISP-DM methodology from Data understanding to Model Deployment.
+
 
 
 
