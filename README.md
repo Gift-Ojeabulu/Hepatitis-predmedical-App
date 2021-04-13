@@ -26,6 +26,10 @@ The Goal is to help health practitioners with the prediction of a patient having
 	* SQLITE
 	* JOBLIB
 
+## ✅ Demo Video!
+
+![](https://github.com/Gift-Ojeabulu/Big-Fashion-Sales-Dashboard/blob/main/Excel%20Clean%20Dashboard.gif)
+
 ## ✅ Features
 * Signup & Login section - since the app is for healthcare decided to put some form of security.
 
