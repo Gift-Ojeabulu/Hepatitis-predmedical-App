@@ -28,7 +28,7 @@ The Goal is to help health practitioners with the prediction of a patient having
 
 ## ✅ Demo Video!
 
-![](https://github.com/Gift-Ojeabulu/Big-Fashion-Sales-Dashboard/blob/main/Excel%20Clean%20Dashboard.gif)
+![](https://github.com/Gift-Ojeabulu/Hepatitis-fatality-predictor/blob/main/Health-App-B.gif)
 
 ## ✅ Features
 * Signup & Login section - since the app is for healthcare decided to put some form of security.
