@@ -6,9 +6,7 @@
 
 
 ## ✅ Goal
-The Goal is to help health practitioners with the prediction of a patient having Hepatitis B,this can be infused into any hospital’s existing system and can be useful in areas with scarce health personnel and limited resources. 
-
-
+In the Modern world, problem-solving is the foremost goal of almost every industry/professional. The importance of using machine learning (ML) for solving problems in healthcare can't be over-emphasized. The Goal is to help health practitioners with the prediction of a patient having Hepatitis B,this can be infused into any hospital’s existing system and can be useful in areas with scarce health personnel and limited resources. 
 
 
 ## ✅ Demo Video!
