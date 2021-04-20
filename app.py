@@ -1,9 +1,9 @@
 #Core Pkgs
-import streamlit as st #Streamlit is used for build our Data App.
+import streamlit as st 
 
 #Exploratory Data Analysis Packages
-import pandas as pd #Panel data-For data analysis & Manipulation
-import numpy as np #Numerical Computation
+import pandas as pd 
+import numpy as np
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # Utils
