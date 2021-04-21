@@ -22,7 +22,7 @@ import lime.lime_tabular
 
 
 
-#DB
+#Database
 from managed_db import *
 
 #This Function is used to Hash Our Password
