@@ -7,21 +7,20 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 
 
 import os
-import joblib #for pipelining our model
+import joblib 
 import hashlib
 
-#Data viz pkgs
+
 import matplotlib.pyplot as plt
 import matplotlib
 matplotlib.use("Agg")
 
-# ML Interpretation
 import lime
 import lime.lime_tabular
 
 
 
-#Database
+
 from managed_db import *
 
 #This Function is used to Hash Our Password
