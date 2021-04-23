@@ -1,7 +1,6 @@
 
 import streamlit as st 
 
-#Exploratory Data Analysis Packages
 import pandas as pd 
 import numpy as np
 st.set_option('deprecation.showPyplotGlobalUse', False)
