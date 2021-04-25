@@ -59,7 +59,7 @@ def load_model(model_file):
     loaded_model  = joblib.load(open(os.path.join(model_file), 'rb'))
     return loaded_model
 
-# ML Interpretation
+
 import lime
 import lime.lime_tabular
 
