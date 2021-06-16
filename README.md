@@ -14,7 +14,7 @@ In the Modern world, problem-solving is the foremost goal of almost every indust
 ![](https://github.com/Gift-Ojeabulu/Hepatitis-fatality-predictor/blob/main/Health-App-B.gif)
 *  [LINK TO LIVE WEB APPLICATION](https://share.streamlit.io/gift-ojeabulu/hepatitis-fatality-predictor/main/app.py)
 *  [LINK TO APP ON LINKEDIN](https://www.linkedin.com/posts/gift-ojabu_i-worked-on-a-predictive-analytics-project-activity-6785127012211163136-Hb2s)
-*  [PROJECT FEATURED ON OFFICIAL STREAMLIT WEEKLYT DISCUSSION](https://discuss.streamlit.io/t/weekly-roundup-secrets-management-new-creators-playground-apps-and-more/11883)
+*  [PROJECT FEATURED ON OFFICIAL STREAMLIT WEEKLY DISCUSSION](https://discuss.streamlit.io/t/weekly-roundup-secrets-management-new-creators-playground-apps-and-more/11883)
 
 
 ## ✅ Features
