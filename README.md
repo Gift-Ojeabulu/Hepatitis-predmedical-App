@@ -31,7 +31,6 @@ In the Modern world, problem-solving is the foremost goal of almost every indust
 	* SCIKIT-LEARN
 	* LIME
 	* SQLITE
-	* JOBLIB
 
 
 
